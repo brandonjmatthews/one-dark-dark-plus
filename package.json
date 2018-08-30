@@ -1,0 +1,32 @@
+{
+    "name": "one-dark-dark-plus",
+    "displayName": "OneDark-Dark+",
+    "description": "A theme based on the OneDark theme from Atom with the background colors from VSCode's Dark+",
+    "version": "0.0.1",
+    "publisher": "brandonjmatthews",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OneDark-Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDark-Dark+-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "one dark",
+        "onedark",
+        "theme",
+        "atom",
+        "dark plus",
+        "plus",
+        "dark+"
+    ]
+}
