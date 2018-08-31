@@ -14,9 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "OneDark-Dark+",
+                "label": "OneDark Dark+",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDark-Dark+-color-theme.json"
+            },
+            {
+                "label": "OneDark Dark+ Vivid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDark-Dark+-vivid-color-theme.json"
             }
         ]
     },
