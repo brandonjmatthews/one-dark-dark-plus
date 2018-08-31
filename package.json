@@ -2,7 +2,7 @@
     "name": "one-dark-dark-plus",
     "displayName": "OneDark-Dark+",
     "description": "A theme based on the OneDark theme from Atom with the background colors from VSCode's Dark+",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "brandonjmatthews",
     "repository": "https://github.com/brandonjmatthews/one-dark-dark-plus",
     "engines": {
